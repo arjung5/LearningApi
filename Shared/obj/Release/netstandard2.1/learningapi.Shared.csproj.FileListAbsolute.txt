@@ -1,0 +1,9 @@
+E:\leaningnetlify\learningapi\learningapi\Shared\bin\Release\netstandard2.1\learningapi.Shared.deps.json
+E:\leaningnetlify\learningapi\learningapi\Shared\bin\Release\netstandard2.1\learningapi.Shared.dll
+E:\leaningnetlify\learningapi\learningapi\Shared\bin\Release\netstandard2.1\learningapi.Shared.pdb
+E:\leaningnetlify\learningapi\learningapi\Shared\obj\Release\netstandard2.1\learningapi.Shared.csprojAssemblyReference.cache
+E:\leaningnetlify\learningapi\learningapi\Shared\obj\Release\netstandard2.1\learningapi.Shared.AssemblyInfoInputs.cache
+E:\leaningnetlify\learningapi\learningapi\Shared\obj\Release\netstandard2.1\learningapi.Shared.AssemblyInfo.cs
+E:\leaningnetlify\learningapi\learningapi\Shared\obj\Release\netstandard2.1\learningapi.Shared.csproj.CoreCompileInputs.cache
+E:\leaningnetlify\learningapi\learningapi\Shared\obj\Release\netstandard2.1\learningapi.Shared.dll
+E:\leaningnetlify\learningapi\learningapi\Shared\obj\Release\netstandard2.1\learningapi.Shared.pdb
